@@ -5,5 +5,5 @@ Hungarian Algorithm for solving assignment problems
 compile in command line:
 g++ -std=c++11 test.cpp hungarianalgorithm.cpp hungarianalgorithm.h
 
-and runn:
+and run:
 ./a.out
